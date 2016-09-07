@@ -1,0 +1,5 @@
+Week 1:
+1. Introduction to GIT
+2. How to create folders and files through badak and connect to GitHub
+3. Introduction to CLI
+
