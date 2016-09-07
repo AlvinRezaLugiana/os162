@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 alvin.reza StafCS 4096 Sep  7 12:57 .
+drwx--x--x  4 alvin.reza StafCS 4096 Sep  7 11:16 ..
+drwxr-xr-x  8 alvin.reza StafCS 4096 Sep  7 11:47 .git
+-rw-r--r--  1 alvin.reza StafCS    0 Sep  7 12:57 lab01.txt
+-rw-r--r--  1 alvin.reza StafCS    8 Sep  7 11:16 README.md
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:35 SandBox
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:44 week00
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:27 week01
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:27 week02
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:28 week03
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:28 week04
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:28 week05
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:28 week06
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:28 week07
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week08
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week09
+drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week10
+/home/fasilkom/mahasiswa/a/alvin.reza/os162/week01
