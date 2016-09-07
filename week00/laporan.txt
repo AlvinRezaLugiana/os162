@@ -1,0 +1,6 @@
+1. Proof presence by making greeting in scele forum
+2. Create a new Google account (If you have one then skip this)
+3. Create a new GitHub account
+4. Create a repository in GitHub
+5. Log in to badak.cs.ui.ac.id
+#Alvin Reza Lugiana
