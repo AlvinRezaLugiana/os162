@@ -17,3 +17,8 @@ drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week08
 drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week09
 drwxr-xr-x  2 alvin.reza StafCS 4096 Sep  7 11:29 week10
 /home/fasilkom/mahasiswa/a/alvin.reza/os162/week01
+Today is 07 Sep 2016 at 13:16:14
+Today is 07 Sep 2016 at 13:17:15
+Today is 07 Sep 2016 at 13:17:46
+Today is 07 Sep 2016 at 13:20:53
+Today is 07 Sep 2016 at 13:25:30
